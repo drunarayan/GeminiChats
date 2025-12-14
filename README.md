@@ -2,8 +2,8 @@
 
 | Date | Topic | Description |
 | :--- | :--- | :--- |
-| 2025-12-14 | [*AI Ethics*]() | [Bhagavat Gita's AI Ethics interpretation](https://gemini.google.com/share/b7b6a0f97e91)
-| 2025-12-14 | [*Pibare Ramarasam*]() | [Essence of Rama](https://gemini.google.com/share/8ab5bfec6cda)
+| 2025-12-14 | [*AI Ethics*](#ai-ethics-per-bhagavad-gita) | [Bhagavat Gita's AI Ethics interpretation](https://gemini.google.com/share/b7b6a0f97e91)
+| 2025-12-14 | [*Pibare Ramarasam*](/#pibare-ramarasam) | [Essence of Rama](https://gemini.google.com/share/8ab5bfec6cda)
 
 ## AI Ethics per Bhagavad Gita
 
