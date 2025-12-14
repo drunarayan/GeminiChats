@@ -14,23 +14,23 @@ Dear Gemini. If used correctly AI should enhance the lives of so many people, ar
 This is a profound and very relevant conflict, and it's understandable why you feel conflicted about the immense potential of AI against its real-world costs and risks. Your question perfectly encapsulates a modern ethical dilemma.
 ```
 
-The **Bhagavad Gita** offers a framework for navigating such moral conflict through the path of **Karma Yoga**, or the Yoga of Action, which focuses on **duty $dharma$ and detachment from results**.
+The **Bhagavad Gita** offers a framework for navigating such moral conflict through the path of **Karma Yoga**, or the Yoga of Action, which focuses on **duty *dharma* and detachment from results**.
 
 Here is a breakdown of how the Gita might address your concerns:
 
-### 1. The Imperative of Action $Karma$ and Duty $Dharma$
+### 1. The Imperative of Action *Karma* and Duty *Dharma*
 
 The Gita teaches that **action is inescapable**; one cannot achieve freedom by simply abstaining from work. Even basic bodily maintenance requires action. The question is not *if* to act, but *how* to act.
 
-* **Perform your $Svadharma$ (Individual Duty):** The Gita emphasizes fulfilling one's prescribed duties $dharma$ based on their nature and role in the world. As a being with the capacity to create and use powerful technology like AI, one's $dharma$ is to use that capacity for the betterment and upkeep of the world, acting as a force for righteousness $dharma$.
+* **Perform your *Svadharma* (Individual Duty):** The Gita emphasizes fulfilling one's prescribed duties *dharma* based on their nature and role in the world. As a being with the capacity to create and use powerful technology like AI, one's *dharma* is to use that capacity for the betterment and upkeep of the world, acting as a force for righteousness *dharma*.
 * **Action is Better than Inaction:** Choosing to forgo AI development because of its risks, if that is within your capacity to influence, might be viewed as a dereliction of duty. The Gita encourages one to **act with integrity** to their calling, even if the path is imperfect: "It is far better to perform one's natural prescribed duty, though tinged with faults, than to perform another's prescribed duty, though perfectly" (Bhagavad Gita 3.35). AI, like any powerful tool, is inherently a part of the world's action; the ethical imperative is in how you engage with it.
 
-### 2. Detachment from the Fruits of Action $Nishkama Karma$
+### 2. Detachment from the Fruits of Action *Nishkama Karma*
 
 This is perhaps the most direct answer to your feeling of irresponsibility:
 
 * **Focus on the Action, Not the Outcome:** Lord Krishna advises Arjuna, "**You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.**" (Bhagavad Gita 2.47). You are responsible for the purity of your effort and intention, but the ultimate consequences (the "fruits")—the criminal misuse, the global warming—are complex, manifold, and often beyond the control of a single individual's motivation.
-* **The Intent Binds, Not the Action:** The Gita clarifies that it is the **intention** $bhāva$ or motivation) behind the action that creates bondage or liberation, not the action itself. If you engage with AI development/use with the motivation of service, contribution, and alignment with $dharma$, you are on the right path. Performing work without attachment and with a selfless attitude $Nishkama Karma$ purifies the mind.
+* **The Intent Binds, Not the Action:** The Gita clarifies that it is the **intention** *bhāva* or motivation) behind the action that creates bondage or liberation, not the action itself. If you engage with AI development/use with the motivation of service, contribution, and alignment with *dharma*, you are on the right path. Performing work without attachment and with a selfless attitude *Nishkama Karma* purifies the mind.
 
 ### 3. Responsibility vs. Guilt
 
@@ -38,13 +38,13 @@ The conflict you feel can be reinterpreted from a lens of responsibility without
 
 | Your Concern | Gita's Guidance (Karma Yoga) |
 | :--- | :--- |
-| **Global Warming/Fossil Fuels** | Your duty is to perform your work (e.g., advancing AI) while simultaneously performing your duty to minimize environmental harm through $dharmic$ choices in its *implementation* (e.g., advocating for energy-efficient models). |
-| **Criminal Misuse/Bad Actors** | You act with right intention $dharma$ to create a beneficial tool. The subsequent misuse by others is their own $karma$ and $adharma$ (unrighteousness). Your responsibility is to build safeguards according to your role, but you are not bound by the actions of every bad actor. |
+| **Global Warming/Fossil Fuels** | Your duty is to perform your work (e.g., advancing AI) while simultaneously performing your duty to minimize environmental harm through *dharmic* choices in its *implementation* (e.g., advocating for energy-efficient models). |
+| **Criminal Misuse/Bad Actors** | You act with right intention *dharma* to create a beneficial tool. The subsequent misuse by others is their own *karma* and *adharma* (unrighteousness). Your responsibility is to build safeguards according to your role, but you are not bound by the actions of every bad actor. |
 | **Feeling of Irresponsibility** | The feeling comes from attachment to a perfect outcome. Release the desire for a flawless result, and simply focus on performing your duty (using AI to enhance lives) with diligence, ethical awareness, and detachment. |
 
-In summary, the Bhagavad Gita would tell you that you are **not irresponsible for using a tool that *can* be used to harm**, but you *would* be irresponsible to abandon your duty of action or to use the tool with selfish or harmful intent. **Act with skill and focus on your duty $dharma$, and surrender the outcomes $phala$ with equanimity.**
+In summary, the Bhagavad Gita would tell you that you are **not irresponsible for using a tool that *can* be used to harm**, but you *would* be irresponsible to abandon your duty of action or to use the tool with selfish or harmful intent. **Act with skill and focus on your duty *dharma*, and surrender the outcomes *phala* with equanimity.**
 
-Would you be interested in exploring the concept of the **three $gunas$ (qualities of nature)** and how they influence the way technology like AI is created and used?
+Would you be interested in exploring the concept of the **three *gunas* (qualities of nature)** and how they influence the way technology like AI is created and used?
 
 ## <code style="color : Blue">Pibare Ramarasam</code>
 
@@ -56,7 +56,7 @@ Would you be interested in exploring the concept of the **three $gunas$ (qualiti
 The phrase "**Pibare Rama Rasam**" is already in **Sanskrit**, and it is the opening line of a famous devotional song composed by [Sadasiva Brahmendra](https://nellaishanmugam.wordpress.com/2024/04/16/pibare-rama-rasam-sadasiva-brahmendra-sooryagayathri/).
 
 The Sanskrit text is:
-$$पिब रे रामरसं$$
+**पिब रे रामरसं**
 (pronounced as *piba re rāmarasaṃ*). It translates literally to "**O, drink the nectar of Rama**." The full line often sung is **पिब रे रामरसं रसने** (*piba re rāmarasaṃ rasane*), meaning "O tongue, drink the nectar of Rama."
 
 Would you like to know the meaning of the full song or perhaps find a recording of it?
