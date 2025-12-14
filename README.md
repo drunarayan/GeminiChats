@@ -47,7 +47,7 @@ In summary, the Bhagavad Gita would tell you that you are **not irresponsible fo
 
 Would you be interested in exploring the concept of the **three $\text{gunas}$ (qualities of nature)** and how they influence the way technology like AI is created and used?
 
-## ${\color{green}Pibare\ Ramarasam}$
+## ${\color{green}Pibare\space Ramarasam}$
 
 **Conversation Transcript**: "Pibare Rama Rasam"
 
