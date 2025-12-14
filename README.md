@@ -5,7 +5,7 @@
 | 2025-12-14 | [*AI Ethics*](#ai-ethics-per-bhagavad-gita) | [Bhagavat Gita's AI Ethics interpretation](https://gemini.google.com/share/b7b6a0f97e91)
 | 2025-12-14 | [*Pibare Ramarasam*](#pibare-ramarasam) | [Essence of Rama](https://gemini.google.com/share/8ab5bfec6cda)
 
-## ${\color{green}AI \space Ethics \space per \space Bhagavad \space Gita}$
+## <code style="color : Blue">AI Ethics & Bhagavad Gita</code>
 
 
 ```
@@ -47,7 +47,7 @@ In summary, the Bhagavad Gita would tell you that you are **not irresponsible fo
 
 Would you be interested in exploring the concept of the **three $\text{gunas}$ (qualities of nature)** and how they influence the way technology like AI is created and used?
 
-## ${\color{green}Pibare \space Ramarasam}$
+## <code style="color : Blue">Pibare Ramarasam</code>
 
 **Conversation Transcript**: "Pibare Rama Rasam"
 

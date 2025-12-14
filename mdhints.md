@@ -2,13 +2,10 @@ full latex markdown e.g.
 
 ${{\color{blue}This \space is \space in \space Blue!}}$
 
+full github markdown e.g. 
 
-partial markdown without colour e.g. 
-
-${\color{red}This \space is \space in \space Red}$
+<code style="color : Magenta">Magenta Text</code> and normal text
 
 
-partial markdown with colour used for '\color' command e.g. 
 
-${\color{green} This \space is \space in \space Green!}$ Rest is normal
 
